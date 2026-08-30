@@ -1905,6 +1905,14 @@ Also available for bat and Ghostty in the same repository.
     <a href="https://github.com/grinev/opencode-telegram-bot">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
+<details>
+  <summary><b>Opencode Telegram</b> <img src="https://badgen.net/github/stars/gutchapa/opencode-telegram" height="14"/> - <i>Full remote control of OpenCode from Telegram</i></summary>
+  <blockquote>
+    Control OpenCode from your phone via Telegram: 70+ slash commands, run shell commands, approve permissions, manage sessions, and chat with your local AI assistant.
+    <br><br>
+    <a href="https://github.com/gutchapa/opencode-telegram">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
 
 <details>
   <summary><b>OpenCode Vim</b> <img src="https://badgen.net/github/stars/leohenon/opencode-vim" height="14"/> - <i>OpenCode fork with built-in Vim mode</i></summary>
